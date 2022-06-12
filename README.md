@@ -1,2 +1,2 @@
 # OnlineSpeedoMeter
-Online Speed Checker: https://onlinespeedometer.netlify.app
+> Online Speed Checker: [OnlineSpeedoMeter](https://onlinespeedometer.netlify.app)
